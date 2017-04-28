@@ -160,7 +160,7 @@ class Api
     }
 
     /**
-    *返回正确结果
+    *返回正确结果 测试webhook
     **/
     public function generateCorrectResponse($result)
     {

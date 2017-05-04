@@ -6,11 +6,3 @@ test qwtqywtqy
 www
 ewuryeuiwr
 rtertrhektgjtrk
-sdfedsfgdgf
-qwewqrw
-test
-eeeeeeee
-eeee
-trrttyt
-eee
-werte
